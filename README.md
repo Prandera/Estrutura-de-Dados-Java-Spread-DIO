@@ -1,4 +1,4 @@
-# Codificação e Implementação das Estruturas de Dados Java durante o Bootcamp "Java Spread Developer" na plataforma [DIO](dio.me).
+# Codificação e Implementação das Estruturas de Dados Java durante o Bootcamp "Java Spread Developer" na plataforma [DIO](https://www.dio.me/).
 
 ### Foram criadas diversas classes e implementado manualmente os metodos mais utilizados como add, get, remove, isEmpty e toString. Segue as estruturas estudadas:
 
